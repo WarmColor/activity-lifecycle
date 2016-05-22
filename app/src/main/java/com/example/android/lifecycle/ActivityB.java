@@ -25,9 +25,6 @@ import android.widget.TextView;
 import com.example.android.lifecycle.util.StatusTracker;
 import com.example.android.lifecycle.util.Utils;
 
-/**
- * Example Activity to demonstrate the lifecycle callback methods.
- */
 public class ActivityB extends Activity {
 
     private String mActivityName;
